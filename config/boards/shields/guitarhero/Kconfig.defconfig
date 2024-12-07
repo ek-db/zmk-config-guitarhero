@@ -1,0 +1,6 @@
+if SHIELD_GUITARHERO
+
+config ZMK_KEYBOARD_NAME
+    default "guitarhero"
+
+endif
