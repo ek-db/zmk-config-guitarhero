@@ -1,6 +1,6 @@
 / { 
     chosen { 
-        zmk,kscan = &default_kscan;
+        zmk,kscan = &kscan_direct;
 
      };
 
